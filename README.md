@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Panduabraham
 - 👀 I’m interested in game
 - 🌱 I’m currently playing bots
-- 💞️ I’m looking to collaborate on communication
+- 💞️ I’m looking to collaborate edit
 - 📫 How to reach me ...
 
 <!---
